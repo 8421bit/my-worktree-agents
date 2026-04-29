@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.mwa/
+.worktrees/
+TASKS_*.md
+*-REPORT.md
+REPORT*.md

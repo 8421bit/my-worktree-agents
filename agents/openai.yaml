@@ -1,0 +1,4 @@
+interface:
+  display_name: "My Worktree Agents"
+  short_description: "Plan and manage Git worktree agent teams"
+  default_prompt: "Use $my-worktree-agents to propose and initialize a project-specific multi-agent worktree collaboration setup."
